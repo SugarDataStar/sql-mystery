@@ -37,7 +37,7 @@ This project solves the [SQL Murder Mystery](https://mode.com/sql-tutorial/sql-m
 
 ## 🕵️ Final Suspect
 
-> 🎯 The culprit was **[spoiler name here]** – confirmed by cross-referencing interview statements with license data.
+> 🎯 The culprit was **Professor Plum** – confirmed by cross-referencing interview statements with license data.
 
 ---
 
