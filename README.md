@@ -19,9 +19,12 @@ This project solves the [SQL Murder Mystery](https://mode.com/sql-tutorial/sql-m
 
 ## 🧠 Tools Used
 
-- SQL (PostgreSQL / MySQL)
-- Mode Analytics SQL playground
-- Visual tools: pgAdmin, DBeaver, or VS Code SQL extension
+- **SQL (PostgreSQL syntax)** – to perform structured queries, filtering, joins, and data transformations  
+- **Mode Analytics SQL Playground** – the platform where the SQL Murder Mystery challenge is hosted and executed  
+- **Common Table Expressions (CTEs)** – used to modularize multi-step logic  
+- **Window Functions** – such as `RANK()`, `ROW_NUMBER()`, for ranking and analytical filtering  
+- **Joins** – to merge multiple tables like `crime_scene_report`, `suspects`, `interviews`  
+- **GitHub** – for version control, collaboration, and showcasing the project in a portfolio
 
 ---
 
